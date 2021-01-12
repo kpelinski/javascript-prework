@@ -52,4 +52,3 @@ function playGame(playerInput) {
 
   console.log('test');
 }
-playGame(3);
